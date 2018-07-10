@@ -28,7 +28,7 @@ are welcome
 
 ## 多线程和多进程
 [swoole](https://github.com/swoole/swoole-src) - 多进程框架
-[pthreads]](https://github.com/krakjoe/pthreads) - 多线程
+[pthreads](https://github.com/krakjoe/pthreads) - 多线程
 
 ## 代码分析
 [XHProf](https://github.com/phacility/xhprof) - 性能分析工具
