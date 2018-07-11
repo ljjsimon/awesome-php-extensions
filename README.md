@@ -1,8 +1,8 @@
 # Awesome PHP extensions
-收集 PHP 插件的
+收集 PHP 扩展
 
 # Contributing
-are welcome
+欢迎PR
 
 # The list
 ## 数据转换
@@ -17,14 +17,16 @@ are welcome
 
 ## 网站框架
 - [yar](https://github.com/laruence/yar) - RPC框架
-- [SeasLog](https://github.com/SeasX/SeasLog) - 日志
-- [yaconf](https://github.com/laruence/yaconf) - 配置管理
-- [Pimple](https://github.com/silexphp/Pimple) - 依赖注入
 - [yaf](https://github.com/laruence/yaf) - 网站框架
 - [phalcon](https://github.com/phalcon) - 网站框架
 - [asf](https://github.com/yulonghu/asf) - 网站框架
 - [ice](https://github.com/ice) - 用 Zephir 写的框架
 - [CSpeed](https://github.com/liqiongfan/cspeed) - 网站框架
+
+## 框架组件
+- [SeasLog](https://github.com/SeasX/SeasLog) - 日志
+- [Pimple](https://github.com/silexphp/Pimple) - 依赖注入
+- [yaconf](https://github.com/laruence/yaconf) - 配置管理
 
 ## 多线程和多进程
 - [swoole](https://github.com/swoole/swoole-src) - 多进程框架
