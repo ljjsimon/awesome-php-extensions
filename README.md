@@ -9,16 +9,19 @@
 - [ds](https://github.com/php-ds/extension) - 标准数据结构
 - [geohash](https://github.com/taogogo/geohash-php-extention) - 经纬度和 geohash 转换
 - [php-ext-excel-export](https://github.com/viest/php-ext-excel-export) - 输出 Excel 格式
-- [php-ext-trie-filter](https://github.com/wulijun/php-ext-trie-filter) - trie 查找树
+- [php-ext-trie-filter](https://github.com/wulijun/php-ext-trie-filter) - trie 查找树，用于文本匹配
 - [php-ext-collection](https://github.com/viest/php-ext-collection) - 数组数据操作
 
 ## 客户端
 - [phpredis](https://github.com/phpredis/phpredis) - Redis 客户端
+- [msphpsql](https://github.com/Microsoft/msphpsql) - 微软出的 SQL Server 客户端
+- [php-rdkafka](https://github.com/arnaud-lb/php-rdkafka) - kafka 客户端
+- [arangodb-php-driver](https://github.com/sandrokeil/arangodb-php-driver) - ArangoDB 客户端
 
 ## 网站框架
 - [yar](https://github.com/laruence/yar) - RPC框架
 - [yaf](https://github.com/laruence/yaf) - 网站框架
-- [phalcon](https://github.com/phalcon) - 网站框架
+- [cphalcon](https://github.com/phalcon/cphalcon) - 网站框架
 - [asf](https://github.com/yulonghu/asf) - 网站框架
 - [ice](https://github.com/ice) - 用 Zephir 写的框架
 - [CSpeed](https://github.com/liqiongfan/cspeed) - 网站框架
@@ -27,10 +30,13 @@
 - [SeasLog](https://github.com/SeasX/SeasLog) - 日志
 - [Pimple](https://github.com/silexphp/Pimple) - 依赖注入
 - [yaconf](https://github.com/laruence/yaconf) - 配置管理
+- [php-mustache](https://github.com/jbboehr/php-mustache) - mustache 解析库
 
 ## 多线程和多进程
 - [swoole](https://github.com/swoole/swoole-src) - 多进程框架
 - [pthreads](https://github.com/krakjoe/pthreads) - 多线程
+- [zan](https://github.com/youzan/zan) - 有赞出的异步网络库
+- [php-ion](https://github.com/php-ion/php-ion) - 异步执行库
 
 ## 代码分析
 - [XHProf](https://github.com/phacility/xhprof) - 性能分析工具
@@ -39,13 +45,28 @@
 - [vld](https://github.com/derickr/vld) - 输出PHP脚本生成的中间代码
 - [php-spx](https://github.com/NoiseByNorthwest/php-spx) - 自带后台界面的性能分析工具
 
-## 代码加密
-- [screw-plus](https://github.com/del-xiong/screw-plus) - 基于 screw 对 PHP 代码加密
-
 ## 扩展编写
-- [zephir](https://github.com/phalcon/zephir) - 编写 PHP 扩展
+- [zephir](https://github.com/phalcon/zephir) - 用 PHP 编写 PHP 扩展
 - [php-go](https://github.com/kitech/php-go) - 用 Go 语言编写 PHP 扩展
+- [php-rc](https://github.com/rethinkphp/php-rs) - 用 Rust 语言编写 PHP 扩展
+
+## 跨语言
+- [ffi](https://github.com/dstogov/php-ffi) - 直接编译 c 语言代码
+- [v8js](https://github.com/phpv8/v8js) - 用 V8 引擎执行 javascript
+- [php-v8](https://github.com/phpv8/php-v8) - 用 V8 引擎执行 javascript
+- [PHPython](https://github.com/bullsoft/PHPython) - 执行 python
+
+## 图片处理
+- [php-smartcrop-extension](https://github.com/xymak/php-smartcrop-extension) - smartcrop 图片关键部位查找算法的 PHP 实现
+- [php-vips](https://github.com/jcupitt/php-vips) - 图像处理库，封装 libvips
+
+## 字符串处理
+- [php-akm](https://github.com/imaben/php-akm) - 文本查找
+- [php_aho_corasick](https://github.com/ph4r05/php_aho_corasick) - Aho-Corasick 算法做字符串匹配
+- [pinyin-php](https://github.com/duguying/pinyin-php) - 汉字转拼音
+- [libsodium-php](https://github.com/jedisct1/libsodium-php) - 加密库，封装 libsodium
 
 ## 其他
 - [donkeyid](https://github.com/osgochina/donkeyid) - 64位自增id生成器
-- [ffi](https://github.com/dstogov/php-ffi) - 直接编译 c 语言代码
+- [php-opencv](https://github.com/hihozhou/php-opencv) - opencv 客户端
+- [screw-plus](https://github.com/del-xiong/screw-plus) - 基于 screw 对 PHP 代码加密
