@@ -59,6 +59,7 @@
 ## 图片处理
 - [php-smartcrop-extension](https://github.com/xymak/php-smartcrop-extension) - smartcrop 图片关键部位查找算法的 PHP 实现
 - [php-vips](https://github.com/jcupitt/php-vips) - 图像处理库，封装 libvips
+- [php-opencv](https://github.com/hihozhou/php-opencv) - opencv 客户端
 
 ## 字符串处理
 - [php-akm](https://github.com/imaben/php-akm) - 文本查找
@@ -68,5 +69,4 @@
 
 ## 其他
 - [donkeyid](https://github.com/osgochina/donkeyid) - 64位自增id生成器
-- [php-opencv](https://github.com/hihozhou/php-opencv) - opencv 客户端
 - [screw-plus](https://github.com/del-xiong/screw-plus) - 基于 screw 对 PHP 代码加密
