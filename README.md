@@ -7,7 +7,7 @@
 # The list
 ## 数据转换
 - [ds](https://github.com/php-ds/extension) - 标准数据结构
-- [geohash](https://github.com/taogogo/geohash-php-extention) - 经纬度和 geohash 转换
+- [geohash-php-extension](https://github.com/taogogo/geohash-php-extention) - 经纬度和 geohash 转换
 - [php-ext-excel-export](https://github.com/viest/php-ext-excel-export) - 输出 Excel 格式
 - [php-ext-trie-filter](https://github.com/wulijun/php-ext-trie-filter) - trie 查找树，用于文本匹配
 - [php-ext-collection](https://github.com/viest/php-ext-collection) - 数组数据操作
@@ -55,6 +55,7 @@
 - [v8js](https://github.com/phpv8/v8js) - 用 V8 引擎执行 javascript
 - [php-v8](https://github.com/phpv8/php-v8) - 用 V8 引擎执行 javascript
 - [PHPython](https://github.com/bullsoft/PHPython) - 执行 python
+- [php-python](https://github.com/jparise/php-python) - 运行 python 扩展
 
 ## 图片处理
 - [php-smartcrop-extension](https://github.com/xymak/php-smartcrop-extension) - smartcrop 图片关键部位查找算法的 PHP 实现
