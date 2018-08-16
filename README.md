@@ -45,6 +45,7 @@
 - [vld](https://github.com/derickr/vld) - 输出PHP脚本生成的中间代码
 - [php-spx](https://github.com/NoiseByNorthwest/php-spx) - 自带后台界面的性能分析工具
 - [php-memory-profiler](https://github.com/arnaud-lb/php-memory-profiler) - 函数内存使用分析工具
+- [php-taint](https://github.com/laruence/taint) - XSS 代码检查
 
 ## 扩展编写
 - [zephir](https://github.com/phalcon/zephir) - 用 PHP 编写 PHP 扩展
