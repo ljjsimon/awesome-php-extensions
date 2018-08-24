@@ -37,6 +37,7 @@
 - [pthreads](https://github.com/krakjoe/pthreads) - 多线程
 - [zan](https://github.com/youzan/zan) - 有赞出的异步网络库
 - [php-ion](https://github.com/php-ion/php-ion) - 异步执行库
+- [event](https://bitbucket.org/osmanov/pecl-event/src) - 进程间通信
 
 ## 代码分析
 - [XHProf](https://github.com/phacility/xhprof) - 性能分析工具
