@@ -46,6 +46,7 @@
 - [php-spx](https://github.com/NoiseByNorthwest/php-spx) - 自带后台界面的性能分析工具
 - [php-memory-profiler](https://github.com/arnaud-lb/php-memory-profiler) - 函数内存使用分析工具
 - [php-taint](https://github.com/laruence/taint) - XSS 代码检查
+- [php-ast](https://github.com/nikic/php-ast) - AST 抽象语法树
 
 ## 扩展编写
 - [zephir](https://github.com/phalcon/zephir) - 用 PHP 编写 PHP 扩展
