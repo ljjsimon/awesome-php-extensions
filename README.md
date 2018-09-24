@@ -11,6 +11,7 @@
 - [php-ext-excel-export](https://github.com/viest/php-ext-excel-export) - 输出 Excel 格式
 - [php-ext-trie-filter](https://github.com/wulijun/php-ext-trie-filter) - trie 查找树，用于文本匹配
 - [php-ext-collection](https://github.com/viest/php-ext-collection) - 数组数据操作
+- [php-rapidjson](https://github.com/rustjason/php-rapidjson) - 封装 rapidjson，比 json 库快
 
 ## 客户端
 - [phpredis](https://github.com/phpredis/phpredis) - Redis 客户端
