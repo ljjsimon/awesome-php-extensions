@@ -77,3 +77,4 @@
 - [donkeyid](https://github.com/osgochina/donkeyid) - 64位自增id生成器
 - [screw-plus](https://github.com/del-xiong/screw-plus) - 基于 screw 对 PHP 代码加密
 - [mpl-php-extension](https://github.com/taogogo/mpl-php-extension) - 手机查找归属地
+- [xmark](https://github.com/fate0/xmark) - 重载系统函数
