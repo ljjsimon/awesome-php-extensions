@@ -12,6 +12,7 @@
 - [php-ext-trie-filter](https://github.com/wulijun/php-ext-trie-filter) - trie 查找树，用于文本匹配
 - [php-ext-collection](https://github.com/viest/php-ext-collection) - 数组数据操作
 - [php-rapidjson](https://github.com/rustjason/php-rapidjson) - 封装 rapidjson，比 json 库快
+- [php-decimal](https://github.com/php-decimal/extension) - 提供对 decimal 的支持。官方提供纯 php 版
 
 ## 客户端
 - [phpredis](https://github.com/phpredis/phpredis) - Redis 客户端
