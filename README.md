@@ -74,6 +74,10 @@
 - [pinyin-php](https://github.com/duguying/pinyin-php) - 汉字转拼音
 - [libsodium-php](https://github.com/jedisct1/libsodium-php) - 加密库，封装 libsodium
 
+## 安全检查
+- [taint](https://github.com/laruence/taint) - 检查XSS漏洞
+- [xmark](https://github.com/fate0/xmark) - 检查多种漏洞
+
 ## 其他
 - [donkeyid](https://github.com/osgochina/donkeyid) - 64位自增id生成器
 - [screw-plus](https://github.com/del-xiong/screw-plus) - 基于 screw 对 PHP 代码加密
