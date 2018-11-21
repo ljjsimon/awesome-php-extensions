@@ -16,6 +16,7 @@
 
 ## 客户端
 - [phpredis](https://github.com/phpredis/phpredis) - Redis 客户端
+- [phpiredis](https://github.com/nrk/phpiredis) - 封装了 Hiredis 的 Redis 客户端
 - [msphpsql](https://github.com/Microsoft/msphpsql) - 微软出的 SQL Server 客户端
 - [php-rdkafka](https://github.com/arnaud-lb/php-rdkafka) - kafka 客户端
 - [arangodb-php-driver](https://github.com/sandrokeil/arangodb-php-driver) - ArangoDB 客户端
