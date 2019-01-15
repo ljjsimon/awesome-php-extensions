@@ -7,7 +7,6 @@
 # The list
 ## 数据转换
 - [ds](https://github.com/php-ds/extension) - 标准数据结构
-- [geohash-php-extension](https://github.com/taogogo/geohash-php-extention) - 经纬度和 geohash 转换
 - [php-ext-excel-export](https://github.com/viest/php-ext-excel-export) - 输出 Excel 格式
 - [php-ext-trie-filter](https://github.com/wulijun/php-ext-trie-filter) - trie 查找树，用于文本匹配
 - [php-ext-collection](https://github.com/viest/php-ext-collection) - 数组数据操作
@@ -83,8 +82,12 @@
 ## 日志
 - [php-yklogger](https://github.com/shukean/php-yklogger) - 记录日志
 
+## 地理
+- [geohash-php-extension](https://github.com/taogogo/geohash-php-extention) - 经纬度和 geohash 转换
+- [geospatial](https://github.com/php-geospatial/geospatial) - 包含一般的地理计算函数
+
 ## 其他
 - [donkeyid](https://github.com/osgochina/donkeyid) - 64位自增id生成器
 - [screw-plus](https://github.com/del-xiong/screw-plus) - 基于 screw 对 PHP 代码加密
 - [mpl-php-extension](https://github.com/taogogo/mpl-php-extension) - 手机查找归属地
-- [php-inotify](https://github.com/arnaud-lb/php-inotify) - 封装 inotify
+- [php-inotify](https://github.com/arnaud-lb/php-inotify) - 封装 inotify，监控文件状态
