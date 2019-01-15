@@ -13,6 +13,7 @@
 - [php-ext-collection](https://github.com/viest/php-ext-collection) - 数组数据操作
 - [php-rapidjson](https://github.com/rustjason/php-rapidjson) - 封装 rapidjson，比 json 库快
 - [php-decimal](https://github.com/php-decimal/extension) - 提供对 decimal 的支持。官方提供纯 php 版
+- [php-toml](https://github.com/shukean/php-toml) - 解析 toml 文件
 
 ## 客户端
 - [phpredis](https://github.com/phpredis/phpredis) - Redis 客户端
@@ -35,7 +36,7 @@
 - [yaconf](https://github.com/laruence/yaconf) - 配置管理
 - [php-mustache](https://github.com/jbboehr/php-mustache) - mustache 解析库
 
-## 多线程和多进程
+## 异步
 - [swoole](https://github.com/swoole/swoole-src) - 多进程框架
 - [pthreads](https://github.com/krakjoe/pthreads) - 多线程
 - [zan](https://github.com/youzan/zan) - 有赞出的异步网络库
@@ -78,6 +79,9 @@
 ## 安全检查
 - [taint](https://github.com/laruence/taint) - 检查XSS漏洞
 - [xmark](https://github.com/fate0/xmark) - 检查多种漏洞
+
+## 日志
+- [php-yklogger](https://github.com/shukean/php-yklogger) - 记录日志
 
 ## 其他
 - [donkeyid](https://github.com/osgochina/donkeyid) - 64位自增id生成器
