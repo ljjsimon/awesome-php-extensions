@@ -91,3 +91,4 @@
 - [screw-plus](https://github.com/del-xiong/screw-plus) - 基于 screw 对 PHP 代码加密
 - [mpl-php-extension](https://github.com/taogogo/mpl-php-extension) - 手机查找归属地
 - [php-inotify](https://github.com/arnaud-lb/php-inotify) - 封装 inotify，监控文件状态
+- [php-opencv](https://github.com/hihozhou/php-opencv) - 封装 opencv
