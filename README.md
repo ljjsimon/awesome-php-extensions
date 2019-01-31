@@ -20,6 +20,7 @@
 - [msphpsql](https://github.com/Microsoft/msphpsql) - 微软出的 SQL Server 客户端
 - [php-rdkafka](https://github.com/arnaud-lb/php-rdkafka) - kafka 客户端
 - [arangodb-php-driver](https://github.com/sandrokeil/arangodb-php-driver) - ArangoDB 客户端
+- [PHP-FoundationDB](https://github.com/viest/PHP-FoundationDB) - FoundationDB 客户端
 
 ## 网站框架
 - [yar](https://github.com/laruence/yar) - RPC框架
@@ -51,6 +52,7 @@
 - [php-memory-profiler](https://github.com/arnaud-lb/php-memory-profiler) - 函数内存使用分析工具
 - [php-taint](https://github.com/laruence/taint) - XSS 代码检查
 - [php-ast](https://github.com/nikic/php-ast) - AST 抽象语法树
+- [php-spy](https://github.com/adsr/phpspy) - 性能分析工具
 
 ## 扩展编写
 - [zephir](https://github.com/phalcon/zephir) - 用 PHP 编写 PHP 扩展
