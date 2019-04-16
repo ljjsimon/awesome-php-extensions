@@ -11,7 +11,6 @@
 - [php-ext-trie-filter](https://github.com/wulijun/php-ext-trie-filter) - trie 查找树，用于文本匹配
 - [php-ext-collection](https://github.com/viest/php-ext-collection) - 数组数据操作
 - [php-rapidjson](https://github.com/rustjason/php-rapidjson) - 封装 rapidjson，比 json 库快
-- [php-cjson](https://github.com/rryqszq4/php-cjson) - json 解析
 - [simdjson_php](https://github.com/crazyxman/simdjson_php) - simdjson 绑定，json 解析
 - [php-decimal](https://github.com/php-decimal/extension) - 提供对 decimal 的支持。官方提供纯 php 版
 - [php-toml](https://github.com/shukean/php-toml) - 解析 toml 文件
