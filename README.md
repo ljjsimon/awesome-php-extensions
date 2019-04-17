@@ -60,6 +60,8 @@
 
 ## 扩展编写
 - [zephir](https://github.com/phalcon/zephir) - 用 PHP 编写 PHP 扩展
+- [php-x](https://github.com/swoole/phpx) - cpp 开发
+- [php-cpp](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - cpp 开发
 - [php-go](https://github.com/kitech/php-go) - 用 Go 语言编写 PHP 扩展
 - [php-rc](https://github.com/rethinkphp/php-rs) - 用 Rust 语言编写 PHP 扩展
 
