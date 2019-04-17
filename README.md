@@ -81,6 +81,7 @@
 - [php-akm](https://github.com/imaben/php-akm) - 文本查找
 - [php_aho_corasick](https://github.com/ph4r05/php_aho_corasick) - Aho-Corasick 算法做字符串匹配
 - [pinyin-php](https://github.com/duguying/pinyin-php) - 汉字转拼音
+- [php-pinyin](https://github.com/bullsoft/php-pinyin) - 汉字转拼音
 - [libsodium-php](https://github.com/jedisct1/libsodium-php) - 加密库，封装 libsodium
 
 ## 安全检查
