@@ -72,6 +72,7 @@
 - [PHPython](https://github.com/bullsoft/PHPython) - 执行 python
 - [php-python](https://github.com/jparise/php-python) - 运行 python 扩展
 - [php-ext-wasm](https://github.com/wasmerio/php-ext-wasm) - 运行 WebAssembly
+- [php-webview](https://github.com/siara-cc/php_webview) - 模仿浏览器运行 javascript，有 document
 
 ## 图片处理
 - [php-smartcrop-extension](https://github.com/xymak/php-smartcrop-extension) - smartcrop 图片关键部位查找算法的 PHP 实现
