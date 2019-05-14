@@ -95,6 +95,7 @@
 
 ## 地理
 - [geohash-php-extension](https://github.com/taogogo/geohash-php-extention) - 经纬度和 geohash 转换
+- [geohash](https://github.com/shenzhe/geohash) - geohash
 - [geospatial](https://github.com/php-geospatial/geospatial) - 包含一般的地理计算函数
 
 ## 其他
