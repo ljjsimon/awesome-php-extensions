@@ -58,6 +58,8 @@
 - [php-ast](https://github.com/nikic/php-ast) - AST 抽象语法树
 - [php-spy](https://github.com/adsr/phpspy) - 性能分析工具
 - [php-meminfo](https://github.com/BitOne/php-meminfo) - 内存分析工具
+- [phptrace](https://github.com/Qihoo360/phptrace) - 代码执行分析
+ -[Molten](https://github.com/chuan-yun/Molten) - zipkin 集成
 
 ## 扩展编写
 - [zephir](https://github.com/phalcon/zephir) - 用 PHP 编写 PHP 扩展
