@@ -16,6 +16,8 @@
 - [php-toml](https://github.com/shukean/php-toml) - 解析 toml 文件
 - [igbinary](https://github.com/igbinary/igbinary) - 替代 serialize 和 unserialize
 - [php-ext-jq](https://github.com/kjdev/php-ext-jq) - 封装 jq ，快速查找 json
+- [ext-serialize](https://github.com/swoole/ext-serialize) - 序列化
+
 
 ## 客户端
 - [phpredis](https://github.com/phpredis/phpredis) - Redis 客户端
